@@ -1,11 +1,12 @@
-# Kirk Keel — Energy AI Architect & Principal Well Operations Engineer
+# Kirk Keel — Senior Well Control Specialist & Energy AI Architect
 
-**25+ Years in Drilling, Completions, Well Intervention (CWI) & Well Control | Enterprise Agentic AI, MLOps & Deterministic Physics Guardrails**
+**Senior Well Control Specialist at Boots & Coots · Certified Well Control Instructor · 25+ Years in Operations Management**  
+*Well Operations, Drilling, Completions & Well Intervention (Land & Sea) · Surface & Subsea BOPs · Active & Passive MPD*
 
 🌐 **Engineering Hub & Blog:** [**eng.kcklayton.com**](https://eng.kcklayton.com)  
 🧪 **Live Production Simulators:** [**kill.kcklayton.com**](https://kill.kcklayton.com) · [**wellsim.kcklayton.com**](https://wellsim.kcklayton.com) · [**wellcontrol.kcklayton.com**](https://wellcontrol.kcklayton.com)
 
-I build production-grade AI systems for safety-critical oil & gas operations—combining **real-time WITSML rig telemetry**, **deterministic multiphase well control physics**, **Model Context Protocol (MCP) tool servers**, and **CI-gated RAG compliance evaluation**.
+Through years of software engineering alongside field operations, I design and build production-grade AI architectures for safety-critical energy operations—combining **real-time WITSML rig telemetry**, **deterministic multiphase well control physics**, **Model Context Protocol (MCP) tool servers**, and **CI-gated compliance evaluation**.
 
 > **Core Architectural Principle:** *Never let an LLM guess wellbore pressures.* Every agentic workflow in this portfolio pairs LLM reasoning and SOP retrieval with deterministic, API RP 53 / IADC / IWCF-verified physics engines and automated CI evaluation gates.
 
